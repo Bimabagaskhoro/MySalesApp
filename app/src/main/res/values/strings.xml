@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MySalesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="task">Task</string>
+    <string name="level">level</string>
+    <string name="status">status</string>
+    <string name="name">name</string>
+    <string name="simpan">simpan</string>
+    <string name="navigasi">Navigasi</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register">Register</string>
+</resources>
